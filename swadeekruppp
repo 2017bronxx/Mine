@@ -1,0 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 1" group-title="Sports",True Sports 1
+http://119.59.118.159/live/ch9/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 2" group-title="Sports",True Sports 2
+http://119.59.118.159/live/ch10/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 3" group-title="Sports",True Sports 3
+http://119.59.118.159/live/ch11/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 4" group-title="Sports",True Sports 4
+http://119.59.118.159/live/ch12/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 5" group-title="Sports",True Sports 5
+http://119.59.118.159/live/ch13/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 7" group-title="Sports",True Sports 7
+http://119.59.118.159/live/ch14/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1" group-title="Sports",Bein Sports 1
+http://119.59.118.159/live/ch15/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2" group-title="Sports",Bein Sports 2
+http://119.59.118.159/live/ch16/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3" group-title="Sports",Bein Sports 3
+http://119.59.118.159/live/ch17/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 1" group-title="Sports",SPOTV 1
+http://119.59.118.159/live/ch18/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" group-title="Sports",SPOTV 2
+http://119.59.118.159/live/ch19/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" group-title="Sports",Golf Channel
+http://119.59.118.159/live/ch20/Mariogogo007/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="True Tennis" group-title="Sports",True Tennis
+http://119.59.118.159/live/ch25/Mariogogo007/index.m3u8
