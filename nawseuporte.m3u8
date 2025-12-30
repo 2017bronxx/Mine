@@ -1,10 +1,7 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="Sports",tvg-name="NOW SPORTS 1",NOW SPORTS 1 HK [PRIMARY - Stalker]
+#EXTINF:-1 group-title="Sports",tvg-name="NOW SPORTS 1",NOW SPORTS 1 [PRIMARY]
 http://xplatinproject.com:8080/live/Dedicadonet/mBG5Z0Ld9bvAADw2JvCzhaDaogziWN/108187.ts
-
-#EXTINF:-1 group-title="Sports",tvg-name="NOW SPORTS 1",NOW SPORTS 1 HK [BACKUP 1 - READY]
+#EXTINF:-1 group-title="Sports",tvg-name="NOW SPORTS 1",NOW SPORTS 1 [BACKUP 1]
 http://i.mjh.yingjiespace.com/2021/11/27/61a2b7d4e7f9a.m3u8
-
-#EXTINF:-1 group-title="Sports",tvg-name="NOW SPORTS 1",NOW SPORTS 1 HK [BACKUP 2 - READY]
+#EXTINF:-1 group-title="Sports",tvg-name="NOW SPORTS 1",NOW SPORTS 1 [BACKUP 2]
 http://ott-api.juyitv.cn/live/index.php?name=live&stream=NOW_SPORTS_1&play=1&ver=1.0.1
