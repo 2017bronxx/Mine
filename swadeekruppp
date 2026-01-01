@@ -47,3 +47,6 @@ http://176.123.2.16:25461/live/psergueiru/satsharingskype/1031.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Now Sports 1 HK" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="Badminton",Now Sports 1 HK
 https://raw.githubusercontent.com/2017bronxx/Mine/refs/heads/main/nawseuporte.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV2 Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_2_Sport_2023.svg/1280px-TV_2_Sport_2023.svg.png" group-title="Badminton",TV2 Sport HD
+https://raw.githubusercontent.com/2017bronxx/Mine/refs/heads/main/tividuaseuportedanish.m3u8
