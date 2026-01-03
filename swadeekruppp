@@ -51,6 +51,3 @@ https://raw.githubusercontent.com/2017bronxx/Mine/refs/heads/main/nawseuporte.m3
 #EXTINF:-1 tvg-id="" tvg-name="TV2 Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_2_Sport_2023.svg/1280px-TV_2_Sport_2023.svg.png" group-title="Badminton",TV2 Sport HD
 https://raw.githubusercontent.com/2017bronxx/Mine/refs/heads/main/tividuaseuportedanish.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/uan17t1655810451.png" group-title="ชBadminton",TV 2 Sport
-#EXTVLCOPT:http-referrer=https://github.com/
-https://raw.githubusercontent.com/2017bronxx/Mine/refs/heads/main/tipi2sprt.m3u8
